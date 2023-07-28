@@ -223,6 +223,11 @@ body {
     }
 }
 
+@media (max-width: 1199px) {
+    .div-1, .div-2 {
+      border-bottom: 1px solid #555;
+}
+
 @media print,
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 1.25dppx),
